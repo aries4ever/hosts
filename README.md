@@ -10,3 +10,8 @@ Descriptions:
 2.host_win
   Just for windows,after save it on your disks rename it as hosts and put it in the right place.
   URL:https://support.rackspace.com/how-to/modify-your-hosts-file/
+
+
+Updates:
+2016-05-05:
+Add Google
